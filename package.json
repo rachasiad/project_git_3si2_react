@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "eslint-plugin-react": "^7.32.2",
+    "husky": "^8.0.0"
+  },
+  "lint-staged": {
+    "src/**/*.js": "eslint"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
