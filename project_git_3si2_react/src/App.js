@@ -17,6 +17,7 @@ function App() {
         >
           React Project for Learning Git
         </a>
+        <h1>Another Heading Added</h1>
       </header>
     </div>
   );
