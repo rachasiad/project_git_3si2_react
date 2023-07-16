@@ -20,6 +20,7 @@ function App() {
         <h1>Another Heading Added</h1>
         <h2>one heading 2 is Added by Rachasiad</h2>
         <h3>heading 3 added by rachasiad</h3>
+        <p>paraph tag added by rachasiad</p>
       </header>
     </div>
   );
